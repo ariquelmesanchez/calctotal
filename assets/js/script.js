@@ -1,25 +1,3 @@
-# calctotal
-desafio calculando el total javascript
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Scripts -->
-
-    <!-- <script>
-
         let contador = 0;
         const precio = 35000;
         let precioTotal = precio * contador
@@ -49,8 +27,3 @@ desafio calculando el total javascript
             countLabel.innerText = contador;
             priceLabel.innerText = precioTotal;
         })
-        
-
-      
-
-    </script> -->
