@@ -1,7 +1,10 @@
 # calctotal
 desafio calculando el total javascript
 
-
+sitio
+https://ariquelmesanchez.github.io/calctotal/
+repositorio
+https://github.com/ariquelmesanchez/calctotal
 
 
 
